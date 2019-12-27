@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "5f84559ae9a39a1da1dd45c274cd74f9"
+build_time: [1577476878, 921635000]
+inputs:
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/Manager/SessionDataTaskModel.swift": [1577354032, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/OuterLibraries/Reachability.swift": [1559638334, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/Request Header/XMLHeader.swift": [1577354032, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/Request Header/JSONHeader.swift": [1577354032, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/RequestModifier/RequestModifier.swift": [1577354032, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/Manager/URLSessionManager.swift": [1577476872, 900319622]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/API Request/WebserviceRequest.swift": [1577433805, 319072453]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/Providers/JSONProvider.swift": [1577354032, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/Providers/Provider.swift": [1577354032, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/Data Translator/JSONTranslator.swift": [1577351781, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/Providers/Downloadable.swift": [1577354032, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/Manager/NetworkManager.swift": [1577434065, 36070402]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/API Request/WebserviceRequestConverter.swift": [1577353743, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/Request Header/RequestHeader.swift": [1577354032, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/RequestModifier/GenericRequestModifier.swift": [1577353743, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/API Response/WebserviceResponseResult.swift": [1577351781, 0]
+  "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/MZNetworking/Network/API Response/WebserviceResponseNetworkError.swift": [1577351781, 0]

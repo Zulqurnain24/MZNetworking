@@ -1,0 +1,10 @@
+framework module MZNetworking {
+  umbrella header "MZNetworking.h"
+
+  export *
+  module * { export * }
+}
+
+module MZNetworking.__Swift {
+    exclude header "MZNetworking-Swift.h"
+}

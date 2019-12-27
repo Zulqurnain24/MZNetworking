@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/mohammadzulqarnain/Library/Developer/Xcode/DerivedData/MZNetworking-ddnpseonriexzadaoqignvclafeu/Build/Products/Debug-iphonesimulator/MZNetworking.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/mohammadzulqarnain/Desktop/Clients/Mind Valley/MZNetworking/build/MZNetworking.build/Debug-iphonesimulator/MZNetworking.build/unextended-module.modulemap",
+    }]
+  }]
+}
